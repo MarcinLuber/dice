@@ -1,0 +1,28 @@
+body{
+    background-color: brown;
+  }
+  #wynik{
+    font-size: 30px;
+    color: yellow;
+    background-color: rgb(131, 46, 46);
+    text-align: center;
+    margin-top: 100px;
+    padding: 20px;
+    border: double black 5px;
+  }
+  #losowanie{
+    color: brown;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: double black 5px;
+  }
+  #kostka{
+    padding: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    border: double black 5px;
+}
